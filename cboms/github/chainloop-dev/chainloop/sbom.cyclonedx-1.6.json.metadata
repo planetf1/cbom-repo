@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/chainloop-dev/chainloop/b6ae16283f367fa169b6338d3a0c0eed6a717b3a/internal/schemavalidators/testdata/sbom.cyclonedx-1.6.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/chainloop-dev/chainloop/git/blobs/ad423c8e6654197f2923a0d74a970ec5d251c0fd",
+    "html_url": "https://github.com/chainloop-dev/chainloop/blob/b6ae16283f367fa169b6338d3a0c0eed6a717b3a/internal/schemavalidators/testdata/sbom.cyclonedx-1.6.json",
+    "license": null,
+    "name": "sbom.cyclonedx-1.6.json",
+    "path": "internal/schemavalidators/testdata/sbom.cyclonedx-1.6.json",
+    "repository": "chainloop-dev/chainloop",
+    "sha": "ad423c8e6654197f2923a0d74a970ec5d251c0fd",
+    "size": 5767,
+    "type": "file",
+    "url": "https://api.github.com/repos/chainloop-dev/chainloop/contents/internal/schemavalidators/testdata/sbom.cyclonedx-1.6.json?ref=b6ae16283f367fa169b6338d3a0c0eed6a717b3a",
+    "text_matches": null
+}

@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/OpsLevel/terraform-opslevel-modules/0f47fa7bdf50cefd42617ca23614caa028d2e1e3/modules/demo_account/sboms/minimal.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/OpsLevel/terraform-opslevel-modules/git/blobs/13a6b4243e511c2faedea73678fce257bd3b9b05",
+    "html_url": "https://github.com/OpsLevel/terraform-opslevel-modules/blob/0f47fa7bdf50cefd42617ca23614caa028d2e1e3/modules/demo_account/sboms/minimal.json",
+    "license": null,
+    "name": "minimal.json",
+    "path": "modules/demo_account/sboms/minimal.json",
+    "repository": "OpsLevel/terraform-opslevel-modules",
+    "sha": "13a6b4243e511c2faedea73678fce257bd3b9b05",
+    "size": 4500,
+    "type": "file",
+    "url": "https://api.github.com/repos/OpsLevel/terraform-opslevel-modules/contents/modules/demo_account/sboms/minimal.json?ref=0f47fa7bdf50cefd42617ca23614caa028d2e1e3",
+    "text_matches": null
+}

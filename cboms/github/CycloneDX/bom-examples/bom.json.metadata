@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/CycloneDX/bom-examples/c0436d86cd60693f01d19fe1aacfd01e70e17036/CBOM/Protocol/bom.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/CycloneDX/bom-examples/git/blobs/d2a16437c18a7416489fcfefb6ce9cbddbd8483b",
+    "html_url": "https://github.com/CycloneDX/bom-examples/blob/c0436d86cd60693f01d19fe1aacfd01e70e17036/CBOM/Protocol/bom.json",
+    "license": null,
+    "name": "bom.json",
+    "path": "CBOM/Protocol/bom.json",
+    "repository": "CycloneDX/bom-examples",
+    "sha": "d2a16437c18a7416489fcfefb6ce9cbddbd8483b",
+    "size": 5771,
+    "type": "file",
+    "url": "https://api.github.com/repos/CycloneDX/bom-examples/contents/CBOM/Protocol/bom.json?ref=c0436d86cd60693f01d19fe1aacfd01e70e17036",
+    "text_matches": null
+}

@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/cybeats/sbomgen/c4f93e6768e96cf418112849765e687add0490ad/tutorials/cbom/creating-sonar-cbom/cbom.sonar.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/cybeats/sbomgen/git/blobs/8c355ae12a6edc6ae21b02fb9f07e43a629bc702",
+    "html_url": "https://github.com/cybeats/sbomgen/blob/c4f93e6768e96cf418112849765e687add0490ad/tutorials/cbom/creating-sonar-cbom/cbom.sonar.json",
+    "license": null,
+    "name": "cbom.sonar.json",
+    "path": "tutorials/cbom/creating-sonar-cbom/cbom.sonar.json",
+    "repository": "cybeats/sbomgen",
+    "sha": "8c355ae12a6edc6ae21b02fb9f07e43a629bc702",
+    "size": 1893,
+    "type": "file",
+    "url": "https://api.github.com/repos/cybeats/sbomgen/contents/tutorials/cbom/creating-sonar-cbom/cbom.sonar.json?ref=c4f93e6768e96cf418112849765e687add0490ad",
+    "text_matches": null
+}

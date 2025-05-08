@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/IBM/cbomkit-theia/2d4f0a5564d67021f90ac16513313e39de737368/provider/cyclonedx/testfiles/protocol.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/IBM/cbomkit-theia/git/blobs/9919f190afd8af1e7763822f0062dc52285560be",
+    "html_url": "https://github.com/IBM/cbomkit-theia/blob/2d4f0a5564d67021f90ac16513313e39de737368/provider/cyclonedx/testfiles/protocol.json",
+    "license": null,
+    "name": "protocol.json",
+    "path": "provider/cyclonedx/testfiles/protocol.json",
+    "repository": "IBM/cbomkit-theia",
+    "sha": "9919f190afd8af1e7763822f0062dc52285560be",
+    "size": 6263,
+    "type": "file",
+    "url": "https://api.github.com/repos/IBM/cbomkit-theia/contents/provider/cyclonedx/testfiles/protocol.json?ref=2d4f0a5564d67021f90ac16513313e39de737368",
+    "text_matches": null
+}

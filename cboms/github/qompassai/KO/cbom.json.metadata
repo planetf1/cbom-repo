@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/qompassai/KO/37eae94fb63810706904e27386042ede64e318b8/liboqs/docs/cbom.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/qompassai/KO/git/blobs/57ef76b3337b466e64541ff657c3e1b1d8b8c1ef",
+    "html_url": "https://github.com/qompassai/KO/blob/37eae94fb63810706904e27386042ede64e318b8/liboqs/docs/cbom.json",
+    "license": null,
+    "name": "cbom.json",
+    "path": "liboqs/docs/cbom.json",
+    "repository": "qompassai/KO",
+    "sha": "57ef76b3337b466e64541ff657c3e1b1d8b8c1ef",
+    "size": 113296,
+    "type": "file",
+    "url": "https://api.github.com/repos/qompassai/KO/contents/liboqs/docs/cbom.json?ref=37eae94fb63810706904e27386042ede64e318b8",
+    "text_matches": null
+}

@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/IBM/cbomkit/c0c86ee933a21710d124e08469f9ba65da056487/frontend/resources/keycloak-cbom.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/IBM/cbomkit/git/blobs/db7b3b825aae4d226fa4b4368d86cb37a2fb0a7d",
+    "html_url": "https://github.com/IBM/cbomkit/blob/c0c86ee933a21710d124e08469f9ba65da056487/frontend/resources/keycloak-cbom.json",
+    "license": null,
+    "name": "keycloak-cbom.json",
+    "path": "frontend/resources/keycloak-cbom.json",
+    "repository": "IBM/cbomkit",
+    "sha": "db7b3b825aae4d226fa4b4368d86cb37a2fb0a7d",
+    "size": 60902,
+    "type": "file",
+    "url": "https://api.github.com/repos/IBM/cbomkit/contents/frontend/resources/keycloak-cbom.json?ref=c0c86ee933a21710d124e08469f9ba65da056487",
+    "text_matches": null
+}

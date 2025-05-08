@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/IBM/cbomkit/c0c86ee933a21710d124e08469f9ba65da056487/cbom.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/IBM/cbomkit/git/blobs/1a4bea299399950f39a78f217568afaa1bdbece9",
+    "html_url": "https://github.com/IBM/cbomkit/blob/c0c86ee933a21710d124e08469f9ba65da056487/cbom.json",
+    "license": null,
+    "name": "cbom.json",
+    "path": "cbom.json",
+    "repository": "IBM/cbomkit",
+    "sha": "1a4bea299399950f39a78f217568afaa1bdbece9",
+    "size": 1582,
+    "type": "file",
+    "url": "https://api.github.com/repos/IBM/cbomkit/contents/cbom.json?ref=c0c86ee933a21710d124e08469f9ba65da056487",
+    "text_matches": null
+}

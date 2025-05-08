@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/CycloneDX/sbom-utility/b538cf9e4c2e498f77b5856892ccb9891300f2e1/test/cyclonedx/1.6/specification/valid-cryptography-implementation-1.6.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/CycloneDX/sbom-utility/git/blobs/a143b9b33c8e5c384f0a5c4a4a449bef0d3180d6",
+    "html_url": "https://github.com/CycloneDX/sbom-utility/blob/b538cf9e4c2e498f77b5856892ccb9891300f2e1/test/cyclonedx/1.6/specification/valid-cryptography-implementation-1.6.json",
+    "license": null,
+    "name": "valid-cryptography-implementation-1.6.json",
+    "path": "test/cyclonedx/1.6/specification/valid-cryptography-implementation-1.6.json",
+    "repository": "CycloneDX/sbom-utility",
+    "sha": "a143b9b33c8e5c384f0a5c4a4a449bef0d3180d6",
+    "size": 1523,
+    "type": "file",
+    "url": "https://api.github.com/repos/CycloneDX/sbom-utility/contents/test/cyclonedx/1.6/specification/valid-cryptography-implementation-1.6.json?ref=b538cf9e4c2e498f77b5856892ccb9891300f2e1",
+    "text_matches": null
+}

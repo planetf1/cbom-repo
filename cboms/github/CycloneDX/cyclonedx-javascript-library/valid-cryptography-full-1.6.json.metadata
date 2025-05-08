@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/CycloneDX/cyclonedx-javascript-library/bdbe727e48a34f6276a4e4a3056b11943fe9e2f4/tests/_data/schemaTestData/1.6/valid-cryptography-full-1.6.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/CycloneDX/cyclonedx-javascript-library/git/blobs/ac134465921d60c92cb51c9fe87b7106f6e1dd34",
+    "html_url": "https://github.com/CycloneDX/cyclonedx-javascript-library/blob/bdbe727e48a34f6276a4e4a3056b11943fe9e2f4/tests/_data/schemaTestData/1.6/valid-cryptography-full-1.6.json",
+    "license": null,
+    "name": "valid-cryptography-full-1.6.json",
+    "path": "tests/_data/schemaTestData/1.6/valid-cryptography-full-1.6.json",
+    "repository": "CycloneDX/cyclonedx-javascript-library",
+    "sha": "ac134465921d60c92cb51c9fe87b7106f6e1dd34",
+    "size": 3042,
+    "type": "file",
+    "url": "https://api.github.com/repos/CycloneDX/cyclonedx-javascript-library/contents/tests/_data/schemaTestData/1.6/valid-cryptography-full-1.6.json?ref=bdbe727e48a34f6276a4e4a3056b11943fe9e2f4",
+    "text_matches": null
+}

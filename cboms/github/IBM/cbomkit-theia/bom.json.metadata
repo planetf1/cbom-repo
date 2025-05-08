@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/IBM/cbomkit-theia/2d4f0a5564d67021f90ac16513313e39de737368/testdata/1_exclude_single_algorithm/in/bom.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/IBM/cbomkit-theia/git/blobs/9b3b802036e1d44008fac6ec904ef51aa7b6ce98",
+    "html_url": "https://github.com/IBM/cbomkit-theia/blob/2d4f0a5564d67021f90ac16513313e39de737368/testdata/1_exclude_single_algorithm/in/bom.json",
+    "license": null,
+    "name": "bom.json",
+    "path": "testdata/1_exclude_single_algorithm/in/bom.json",
+    "repository": "IBM/cbomkit-theia",
+    "sha": "9b3b802036e1d44008fac6ec904ef51aa7b6ce98",
+    "size": 5929,
+    "type": "file",
+    "url": "https://api.github.com/repos/IBM/cbomkit-theia/contents/testdata/1_exclude_single_algorithm/in/bom.json?ref=2d4f0a5564d67021f90ac16513313e39de737368",
+    "text_matches": null
+}

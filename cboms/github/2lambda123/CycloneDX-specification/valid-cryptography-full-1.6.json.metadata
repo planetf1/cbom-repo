@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/2lambda123/CycloneDX-specification/bf3a3dbb3c6bb96fd81932926360ef6ad87dfab4/tools/src/test/resources/1.6/valid-cryptography-full-1.6.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/2lambda123/CycloneDX-specification/git/blobs/ac134465921d60c92cb51c9fe87b7106f6e1dd34",
+    "html_url": "https://github.com/2lambda123/CycloneDX-specification/blob/bf3a3dbb3c6bb96fd81932926360ef6ad87dfab4/tools/src/test/resources/1.6/valid-cryptography-full-1.6.json",
+    "license": null,
+    "name": "valid-cryptography-full-1.6.json",
+    "path": "tools/src/test/resources/1.6/valid-cryptography-full-1.6.json",
+    "repository": "2lambda123/CycloneDX-specification",
+    "sha": "ac134465921d60c92cb51c9fe87b7106f6e1dd34",
+    "size": 3042,
+    "type": "file",
+    "url": "https://api.github.com/repos/2lambda123/CycloneDX-specification/contents/tools/src/test/resources/1.6/valid-cryptography-full-1.6.json?ref=bf3a3dbb3c6bb96fd81932926360ef6ad87dfab4",
+    "text_matches": null
+}

@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/open-quantum-safe/liboqs/1d92135e808fb2f9f847e080ec8ff3124ee91ac7/docs/cbom.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/open-quantum-safe/liboqs/git/blobs/57ef76b3337b466e64541ff657c3e1b1d8b8c1ef",
+    "html_url": "https://github.com/open-quantum-safe/liboqs/blob/1d92135e808fb2f9f847e080ec8ff3124ee91ac7/docs/cbom.json",
+    "license": null,
+    "name": "cbom.json",
+    "path": "docs/cbom.json",
+    "repository": "open-quantum-safe/liboqs",
+    "sha": "57ef76b3337b466e64541ff657c3e1b1d8b8c1ef",
+    "size": 113296,
+    "type": "file",
+    "url": "https://api.github.com/repos/open-quantum-safe/liboqs/contents/docs/cbom.json?ref=1d92135e808fb2f9f847e080ec8ff3124ee91ac7",
+    "text_matches": null
+}

@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/CycloneDX/sbom-utility/b538cf9e4c2e498f77b5856892ccb9891300f2e1/test/cyclonedx/1.6/cdx-1-6-valid-cbom-full-1.6.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/CycloneDX/sbom-utility/git/blobs/b6b3aa3916186f95ff224c4d99a905a2e4f56446",
+    "html_url": "https://github.com/CycloneDX/sbom-utility/blob/b538cf9e4c2e498f77b5856892ccb9891300f2e1/test/cyclonedx/1.6/cdx-1-6-valid-cbom-full-1.6.json",
+    "license": null,
+    "name": "cdx-1-6-valid-cbom-full-1.6.json",
+    "path": "test/cyclonedx/1.6/cdx-1-6-valid-cbom-full-1.6.json",
+    "repository": "CycloneDX/sbom-utility",
+    "sha": "b6b3aa3916186f95ff224c4d99a905a2e4f56446",
+    "size": 2970,
+    "type": "file",
+    "url": "https://api.github.com/repos/CycloneDX/sbom-utility/contents/test/cyclonedx/1.6/cdx-1-6-valid-cbom-full-1.6.json?ref=b538cf9e4c2e498f77b5856892ccb9891300f2e1",
+    "text_matches": null
+}

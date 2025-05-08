@@ -1,0 +1,15 @@
+{
+    "download_url": "https://raw.githubusercontent.com/Santandersecurityresearch/cryptoinventory.datamodel/9443202de6ac3e3cfea0ef81cab15c2e60c2681a/certificate-object-cyclonedx-1.6.json",
+    "encoding": "base64",
+    "git_url": "https://api.github.com/repos/Santandersecurityresearch/cryptoinventory.datamodel/git/blobs/9910a9c1be246888919a2fffc7ca45150221636c",
+    "html_url": "https://github.com/Santandersecurityresearch/cryptoinventory.datamodel/blob/9443202de6ac3e3cfea0ef81cab15c2e60c2681a/certificate-object-cyclonedx-1.6.json",
+    "license": null,
+    "name": "certificate-object-cyclonedx-1.6.json",
+    "path": "certificate-object-cyclonedx-1.6.json",
+    "repository": "Santandersecurityresearch/cryptoinventory.datamodel",
+    "sha": "9910a9c1be246888919a2fffc7ca45150221636c",
+    "size": 3768,
+    "type": "file",
+    "url": "https://api.github.com/repos/Santandersecurityresearch/cryptoinventory.datamodel/contents/certificate-object-cyclonedx-1.6.json?ref=9443202de6ac3e3cfea0ef81cab15c2e60c2681a",
+    "text_matches": null
+}
